@@ -1,6 +1,6 @@
 Alright chief. Let me provide you with a few websites about basic user interface on Microsoft
 
-Starting with [User interface and input](https://learn.microsoft.com/en-us/windows/apps/develop/user-interface?tabs=winui-3) by Microsoft learn provides an overview of Windows' UI framework.
+Starting with [User interface and input](https://learn.microsoft.com/en-us/windows/apps/develop/user-interface?tabs=winui-3) by Microsoft Learn provides an overview of Windows' UI framework.
 
 [Navigating Windows](https://edu.gcfglobal.org/en/windowsbasics/navigating-windows/1/) by GCF Global is an easy to follow basic 101 navigation of Windows.
 
